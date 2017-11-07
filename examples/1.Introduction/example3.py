@@ -1,4 +1,12 @@
 # -*- coding: utf-8 -*-
+"""
+create on Tue Nov 7 2017
+
+@autor:allen
+
+function:basic operate in tf:add, mul, matmul
+"""
+
 import tensorflow as tf
 a = tf.placeholder(tf.int16)#占位符
 b = tf.placeholder(tf.int16)#占位符

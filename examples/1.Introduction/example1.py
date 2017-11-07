@@ -4,7 +4,7 @@ create on Tue Nov 7 2017
 
 @autor:allen
 
-function:example1 of tensorflow
+function:hello world using tensorflow
 """
 
 import tensorflow as tf
